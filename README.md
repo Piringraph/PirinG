@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Felix, a freelance Front-end developer
-- 👀 I’m here to help you materialize your ideas by giving you the stunning websites you need to achieve success on your digital goals
+- 🌱 I’m here to help you materialize your ideas by giving you the stunning websites you need to achieve success on your digital goals
 - 💞️ I’m looking to collaborate on Front-end development projects
 - 📫 You can contact me on my gmail: felixpsantana610@gmail.com
 
